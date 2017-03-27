@@ -1,0 +1,47 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html ng-app="myApp">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/app.css" rel="stylesheet" />
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/Scripts/myApp.js"></script>
+</head>
+<body ng-controller="projetoCtrl as ctrl">
+    <div class="jumbotron">
+        <h3><img src="~/Images/linxlog.jpg" /><br />
+<table class="table table-striped">Lista de Usuário</h3> 
+            <tr>
+                <th>Matricula:</th>
+                <th>Email:</th>
+                <th>Horas nominais</th>
+                <th>Horas disponiveis</th>
+
+            </tr>
+            <tr ng-repeat="x in ctrl.usuario">
+                <td>{{x.Nome}}</td>
+                <td>{{x.Email}}</td>
+                <td>{{x.QtdHorasNominal}}</td>
+                <td>{{x.QtdHorasDisponivel}}</td>
+            </tr>
+        </table>
+        <hr />
+
+       <p>
+            Nome:  <input class="form-control" type="text" ng-model="usuario.nome" /><br />
+            Email:<input class="form-control" type="text" ng-model="usuario.email" /><br />
+            Quantidade de horas Nominal:  <input class="form-control" type="text" ng-model="usuario.QtdHorasNominal" /><br />
+           Quantidade de horas Nominal:  <input class="form-control" type="text" ng-model="usuario.QtdHorasDisponivel" /><br />
+            <button class="btn btn-primary btn-block" ng-click="adicionarUsuario(usuario)">Adicionar Usuario</button>
+            {{usuario}}
+        </p>
+ 
+    </div>
+</body>
+</html>

@@ -1,0 +1,164 @@
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\ApplicationInsights.config
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\roslyn\csc.exe
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\roslyn\System.Collections.Immutable.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\roslyn\vbc.exe
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\roslyn\VBCSCompiler.exe
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\roslyn\VBCSCompiler.exe.config
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\PMS_App.dll.config
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\PMS_App.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\PMS_App.pdb
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Antlr3.Runtime.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\EntityFramework.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\EntityFramework.SqlServer.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AI.Web.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AI.WindowsServer.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.ApplicationInsights.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Security.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Google.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Web.Infrastructure.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Newtonsoft.Json.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Owin.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\System.Web.Helpers.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\System.Web.Mvc.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\System.Web.Optimization.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\System.Web.Razor.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\System.Web.WebPages.Deployment.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\System.Web.WebPages.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\System.Web.WebPages.Razor.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\WebGrease.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AI.Web.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AI.WindowsServer.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.ApplicationInsights.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\System.Web.Helpers.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\System.Web.Mvc.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\System.Web.Optimization.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\System.Web.Razor.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\System.Web.WebPages.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\System.Web.WebPages.Deployment.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\System.Web.WebPages.Razor.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Antlr3.Runtime.pdb
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Newtonsoft.Json.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\EntityFramework.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\EntityFramework.SqlServer.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Security.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Google.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\obj\Debug\PMS_App.dll
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\obj\Debug\PMS_App.pdb
+c:\users\camila.prestes\documents\visual studio 2015\Projects\PMS_App\PMS_App\obj\Debug\PMS_App.csprojResolveAssemblyReference.cache
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\ApplicationInsights.config
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\roslyn\csc.exe
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\roslyn\vbc.exe
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\roslyn\VBCSCompiler.exe
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\PMS_App.dll.config
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\PMS_App.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\PMS_App.pdb
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Antlr3.Runtime.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\EntityFramework.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\EntityFramework.SqlServer.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AI.Web.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Security.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Newtonsoft.Json.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Owin.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\System.Web.Helpers.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\System.Web.Mvc.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\System.Web.Optimization.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\System.Web.Razor.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\System.Web.WebPages.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\System.Web.WebPages.Razor.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\WebGrease.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AI.Web.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\System.Web.Helpers.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\System.Web.Mvc.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\System.Web.Optimization.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\System.Web.Razor.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\System.Web.WebPages.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\System.Web.WebPages.Razor.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Antlr3.Runtime.pdb
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Newtonsoft.Json.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\EntityFramework.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\EntityFramework.SqlServer.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Security.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\obj\Debug\PMS_App.csprojResolveAssemblyReference.cache
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\obj\Debug\PMS_App.dll
+C:\Users\pedro.prado\Documents\PMS_App\PMS_App\obj\Debug\PMS_App.pdb
